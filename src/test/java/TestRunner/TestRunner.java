@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "C://Ifran//Projects//Selenium_UI_Automation//Selenium_UI_Automation//src//test//resources//Features",
         glue = "stepDefinations",
-        tags = "EcommerceRegister"
+        tags = "LoginOrange"
 )
 public class TestRunner {
 

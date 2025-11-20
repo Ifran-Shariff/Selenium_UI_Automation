@@ -1,3 +1,4 @@
+@LoginOrange
 Feature: Orange HRM
   Scenario: Login to Orange HRM website
 
